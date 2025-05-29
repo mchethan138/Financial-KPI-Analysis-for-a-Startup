@@ -73,6 +73,7 @@ Analyze key financial performance indicators (KPIs) for an early-stage startup t
 
 ## 📦 Deliverables
 
+- 📁 `RAW_startup_data.xlsx` – RAW file(Not Cleaned dataset)
 - 📘 `Financial KPI Analysis.ipynb` – Python notebook with KPI analysis & cohort logic
 - 📊 `Startup.pbix` – Power BI interactive dashboard
 - 📁 `cleaned_startup_data.csv` – Cleaned dataset
